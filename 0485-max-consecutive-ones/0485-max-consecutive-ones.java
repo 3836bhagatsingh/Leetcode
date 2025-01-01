@@ -5,10 +5,10 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             if(nums[i]==1) c++;
             else{ 
+                ans = Math.max(c,ans);
                 c=0;
             }
-            ans = Math.max(c,ans);
         }
-        return ans;
+        return Math.max(ans,c);
     }
 }

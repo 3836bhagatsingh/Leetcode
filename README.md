@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/3836bhagatsingh/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/3836bhagatsingh/Leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/3836bhagatsingh/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/3836bhagatsingh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/3836bhagatsingh/Leetcode/tree/master/0461-hamming-distance) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/3836bhagatsingh/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/3836bhagatsingh/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->

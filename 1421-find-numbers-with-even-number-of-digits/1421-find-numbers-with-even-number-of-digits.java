@@ -1,11 +1,10 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int c = 0;
-        for(int i=0;i<nums.length;i++){
-            int a = (int)(Math.log10(nums[i])+1);
-            if(a%2==0) c++;
+        int c=0;
+        for(int i :nums){
+            int len = String.valueOf(i).length();
+            if((len&1)==0) c++;
         }
         return c;
-        
     }
 }

@@ -8,15 +8,18 @@ class Solution {
     //     (ruleKey.equals("name") && items.get(i).get(2).equals(ruleValue))) c++;
     //    }
     //     return c;
-      int res = 0;
-        
-        for(int i = 0 ;i<items.size();i++){
-            if(ruleKey.equals("type") && items.get(i).get(0).equals(ruleValue)) res++;
-            if(ruleKey.equals("color") && items.get(i).get(1).equals(ruleValue)) res++;
-            if(ruleKey.equals("name") && items.get(i).get(2).equals(ruleValue)) res++;
-        }
-        
-        return res;
+    
+
+    //After some optimization
+    int ans =0;
+    int key = 0;
+    if(ruleKey.equals("color")) key = 1;
+    if(ruleKey.equals("name")) key = 2;
+
+    for(List<String> item : items ){
+       if(ruleValue.equals(item.get(key))) ans++;
+    }
+    return ans;
         
 
 

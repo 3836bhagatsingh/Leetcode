@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3836bhagatsingh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/3836bhagatsingh/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/3836bhagatsingh/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/3836bhagatsingh/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/3836bhagatsingh/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/3836bhagatsingh/Leetcode/tree/master/0792-binary-search) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/3836bhagatsingh/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/3836bhagatsingh/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/3836bhagatsingh/Leetcode/tree/master/2571-find-the-pivot-integer) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/3836bhagatsingh/Leetcode/tree/master/0053-maximum-subarray) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/3836bhagatsingh/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

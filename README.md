@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3836bhagatsingh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3836bhagatsingh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/3836bhagatsingh/Leetcode/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/3836bhagatsingh/Leetcode/tree/master/0861-flipping-an-image) |

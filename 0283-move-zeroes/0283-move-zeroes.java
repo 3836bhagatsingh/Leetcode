@@ -16,15 +16,29 @@ class Solution {
         // }
 
         // Optimized Approach
-        int k=0;
-        for(int i=0;i<n;i++){
-            if(nums[i]!=0){
-                nums[k++] = nums[i];
-            }
-        }
-        while(k<n){
-            nums[k++]=0;
+        // int k=0;
+        // for(int i=0;i<n;i++){
+        //     if(nums[i]!=0){
+        //         nums[k++] = nums[i];
+        //     }
+        // }
+        // while(k<n){
+        //     nums[k++]=0;
 
+        // }
+
+        // some different method
+        int s = 0;
+        for(int i=0;i<n;i++){
+            if(nums[i]==0){
+                s++;
+            }
+            else if(s>0){
+                int temp = nums[i];
+                nums[i] = 0;
+                nums[i-s] = temp;
+
+            }
         }
         
     }

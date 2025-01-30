@@ -11,11 +11,18 @@ class Solution {
         // }
         // return -1;
 
-        //optimized
-        int n  = nums.length,sum = 0;
-        for(int i=0;i<n;i++){
-            sum += nums[i];
+        // some optimization
+        // int n  = nums.length,sum = 0;
+        // for(int i=0;i<n;i++){
+        //     sum += nums[i];
+        // }
+        // return (n*(n+1))/2 - sum;
+
+        //final optimization
+        int n = nums.length,ans = nums[0];
+        for(int i=1;i<n;i++){
+            ans = ans ^ i^nums[i];
         }
-        return (n*(n+1))/2 - sum;
+        return ans ^ n;
     }
 }

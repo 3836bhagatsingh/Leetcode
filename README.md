@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3836bhagatsingh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/3836bhagatsingh/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/3836bhagatsingh/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/3836bhagatsingh/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/3836bhagatsingh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3836bhagatsingh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/3836bhagatsingh/Leetcode/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/3836bhagatsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/1019-squares-of-a-sorted-array) |

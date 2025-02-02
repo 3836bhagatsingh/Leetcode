@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/3836bhagatsingh/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/3836bhagatsingh/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/3836bhagatsingh/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/3836bhagatsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/3836bhagatsingh/Leetcode/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/3836bhagatsingh/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/3836bhagatsingh/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/3836bhagatsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/3836bhagatsingh/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/3836bhagatsingh/Leetcode/tree/master/1168-duplicate-zeros) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/3836bhagatsingh/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/3836bhagatsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |

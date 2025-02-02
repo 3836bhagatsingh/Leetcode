@@ -10,10 +10,9 @@ class Solution {
         int snowball =0;
         for(int i=0;i<n;i++){
             if(nums[i]==0) snowball++;
-            else{
-                int temp = nums[i];
-                nums[i] = nums[i-snowball];
-                nums[i-snowball] = temp;
+            else if(snowball>0){
+                nums[i-snowball] = nums[i];
+                nums[i] = 0;
             }
         }
         return nums;

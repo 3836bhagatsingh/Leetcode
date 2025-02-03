@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/3836bhagatsingh/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/3836bhagatsingh/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1894-merge-strings-alternately](https://github.com/3836bhagatsingh/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/3836bhagatsingh/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/3836bhagatsingh/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/3836bhagatsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/3836bhagatsingh/Leetcode/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/3836bhagatsingh/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/3836bhagatsingh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/3836bhagatsingh/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/3836bhagatsingh/Leetcode/tree/master/2128-reverse-prefix-of-word) |

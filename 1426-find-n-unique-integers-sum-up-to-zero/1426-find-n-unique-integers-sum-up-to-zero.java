@@ -10,9 +10,7 @@ class Solution {
         for(int i=1;i<=r;i++){
             nums[k++] = i;
         }
-        if (n % 2 != 0) {
-            nums[k] = 0;
-        }
+       
         return nums;
         
     }

@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/3836bhagatsingh/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/3836bhagatsingh/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/3836bhagatsingh/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/3836bhagatsingh/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/3836bhagatsingh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/3836bhagatsingh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -236,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/3836bhagatsingh/Leetcode/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

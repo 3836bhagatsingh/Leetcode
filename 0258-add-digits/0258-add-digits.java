@@ -1,19 +1,15 @@
 class Solution {
-    public  int add(int n){
-        int sum = 0;
+    public int add(int n){
+        int ans = 0;
         while(n>0){
-            sum += n%10;
+            ans += n%10;
             n = n/10;
         }
-        return sum;
-    } 
+        return ans;
+    }
     public int addDigits(int num) {
-        if(num<10) return num;
-        int ans = 0;
-        while(num>=10){
-            num = add(num);
-        }
-        return num;
-        
+        if(num<10) return  num;
+        int sum = add(num);
+        return addDigits(sum);
     }
 }

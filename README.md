@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/3836bhagatsingh/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/3836bhagatsingh/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/3836bhagatsingh/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/3836bhagatsingh/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/3836bhagatsingh/Leetcode/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/3836bhagatsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/3836bhagatsingh/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/3836bhagatsingh/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0948-sort-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/3836bhagatsingh/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

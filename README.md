@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/3836bhagatsingh/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/3836bhagatsingh/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/3836bhagatsingh/Leetcode/tree/master/0389-find-the-difference) |
+| [0742-to-lower-case](https://github.com/3836bhagatsingh/Leetcode/tree/master/0742-to-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/3836bhagatsingh/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/3836bhagatsingh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/3836bhagatsingh/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |

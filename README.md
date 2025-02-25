@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/3836bhagatsingh/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/3836bhagatsingh/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/3836bhagatsingh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/3836bhagatsingh/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/3836bhagatsingh/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/3836bhagatsingh/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/3836bhagatsingh/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/3836bhagatsingh/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2571-find-the-pivot-integer](https://github.com/3836bhagatsingh/Leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Matrix
 |  |

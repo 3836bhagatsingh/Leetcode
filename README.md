@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/3836bhagatsingh/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/3836bhagatsingh/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/3836bhagatsingh/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/3836bhagatsingh/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/3836bhagatsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/3836bhagatsingh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/3836bhagatsingh/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/3836bhagatsingh/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2571-find-the-pivot-integer](https://github.com/3836bhagatsingh/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/3836bhagatsingh/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/3836bhagatsingh/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/3836bhagatsingh/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/3836bhagatsingh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/1013-fibonacci-number) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/3836bhagatsingh/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 ## Design
 |  |
 | ------- |

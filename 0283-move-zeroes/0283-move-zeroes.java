@@ -1,45 +1,23 @@
 class Solution {
     public void moveZeroes(int[] nums) {
+        
+        int c=0;
         int n = nums.length;
-        if(n==0 || n==1) return;
-
-        // Brute force approach
-        // int[] arr = new int[n];
-        // int k = 0;
-        // for(int i=0;i<n;i++){
-        //     if(nums[i]!=0){
-        //         arr[k++] = nums[i];
-        //     }
-        // }
-        //  for(int i=0;i<n;i++){   
-        //         nums[i] = arr[i];   
-        // }
-
-        // Optimized Approach
-        // int k=0;
-        // for(int i=0;i<n;i++){
-        //     if(nums[i]!=0){
-        //         nums[k++] = nums[i];
-        //     }
-        // }
-        // while(k<n){
-        //     nums[k++]=0;
-
-        // }
-
-        // some different method
-        int s = 0;
+        if(n<=1) return;
         for(int i=0;i<n;i++){
             if(nums[i]==0){
-                s++;
+               c++;
             }
-            else if(s>0){
-                int temp = nums[i];
-                nums[i] = 0;
-                nums[i-s] = temp;
-
+            else{
+                nums[i-c]=nums[i];
             }
         }
+        c = n-c;
+        while(c<n){
+            nums[c++]=0;
+            
+        }
+
         
     }
 }

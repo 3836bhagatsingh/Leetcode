@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/3836bhagatsingh/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/3836bhagatsingh/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/3836bhagatsingh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/3836bhagatsingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/3836bhagatsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/3836bhagatsingh/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/3836bhagatsingh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/3836bhagatsingh/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/3836bhagatsingh/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/3836bhagatsingh/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/3836bhagatsingh/Leetcode/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/3836bhagatsingh/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/3836bhagatsingh/Leetcode/tree/master/0742-to-lower-case) |

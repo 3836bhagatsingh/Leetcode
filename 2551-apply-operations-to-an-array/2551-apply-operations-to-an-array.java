@@ -3,18 +3,21 @@ class Solution {
         int n = nums.length;
         for(int i=0;i<n-1;i++){
             if(nums[i]==nums[i+1]){
-                nums[i] = 2*nums[i];
-                nums[i+1]=0;
+                nums[i] = nums[i]*2;
+                nums[i+1] = 0;
             }
         }
-        int snowball =0;
+        int c=0;
         for(int i=0;i<n;i++){
-            if(nums[i]==0) snowball++;
-            else if(snowball>0){
-                nums[i-snowball] = nums[i];
-                nums[i] = 0;
-            }
+            if(nums[i]==0) c++;
+            else nums[i-c]= nums[i];
+        }
+        c = n-c;
+        while(c<n){
+            nums[c++] = 0;
+            
         }
         return nums;
+
     }
 }

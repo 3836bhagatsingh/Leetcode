@@ -1,20 +1,22 @@
 class Solution {
-    public String reversePrefix(String s, char ch) {
-        StringBuilder sb = new StringBuilder("");
-        int idx = -1,n=s.length();
-        for(int i=0;i<n;i++){
-            if(s.charAt(i)==ch){
-                idx = i;
-                break;
-            }
-        }
-        if(idx ==-1) return s;
-        for(int i=idx;i>=0;i--){
-            sb.append(s.charAt(i));
-        }
-        for(int i=idx+1;i<n;i++){
+    public String reverse(String s){
+        StringBuilder sb = new StringBuilder();
+        for(int i=s.length()-1;i>=0;i--){
             sb.append(s.charAt(i));
         }
         return sb.toString();
+    }
+    public String reversePrefix(String word, char ch) {
+        int c=-1;
+        for(int i=0;i<word.length();i++){
+            if(word.charAt(i)==ch){
+                c=i;
+                break;
+            }
+        }
+        if(c==-1) return word;
+        String s = word.substring(0,c+1);
+        return reverse(s) + word.substring(c+1);
+        
     }
 }

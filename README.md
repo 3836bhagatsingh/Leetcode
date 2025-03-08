@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/3836bhagatsingh/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/3836bhagatsingh/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/3836bhagatsingh/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [3330-modify-the-matrix](https://github.com/3836bhagatsingh/Leetcode/tree/master/3330-modify-the-matrix) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/3836bhagatsingh/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/3836bhagatsingh/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2737-row-with-maximum-ones](https://github.com/3836bhagatsingh/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [3330-modify-the-matrix](https://github.com/3836bhagatsingh/Leetcode/tree/master/3330-modify-the-matrix) |
 ## Hash Table
 |  |
 | ------- |

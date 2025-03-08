@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/3836bhagatsingh/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/3836bhagatsingh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1168-duplicate-zeros](https://github.com/3836bhagatsingh/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1310-watering-plants](https://github.com/3836bhagatsingh/Leetcode/tree/master/1310-watering-plants) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/3836bhagatsingh/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/3836bhagatsingh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/3836bhagatsingh/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/3836bhagatsingh/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/3836bhagatsingh/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/3836bhagatsingh/Leetcode/tree/master/0898-transpose-matrix) |
+| [1310-watering-plants](https://github.com/3836bhagatsingh/Leetcode/tree/master/1310-watering-plants) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/3836bhagatsingh/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/3836bhagatsingh/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/3836bhagatsingh/Leetcode/tree/master/2048-build-array-from-permutation) |

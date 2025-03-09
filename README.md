@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/3836bhagatsingh/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/3836bhagatsingh/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/3836bhagatsingh/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/3836bhagatsingh/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3330-modify-the-matrix](https://github.com/3836bhagatsingh/Leetcode/tree/master/3330-modify-the-matrix) |
 ## Math
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/3836bhagatsingh/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/3836bhagatsingh/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/3836bhagatsingh/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/3836bhagatsingh/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Counting
 |  |
 | ------- |

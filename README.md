@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/3836bhagatsingh/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/3836bhagatsingh/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/3836bhagatsingh/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2406-decode-the-message](https://github.com/3836bhagatsingh/Leetcode/tree/master/2406-decode-the-message) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/3836bhagatsingh/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/3836bhagatsingh/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/3836bhagatsingh/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/3836bhagatsingh/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/3836bhagatsingh/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/3836bhagatsingh/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2406-decode-the-message](https://github.com/3836bhagatsingh/Leetcode/tree/master/2406-decode-the-message) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/3836bhagatsingh/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3412-permutation-difference-between-two-strings](https://github.com/3836bhagatsingh/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Divide and Conquer

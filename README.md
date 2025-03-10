@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/3836bhagatsingh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1168-duplicate-zeros](https://github.com/3836bhagatsingh/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1310-watering-plants](https://github.com/3836bhagatsingh/Leetcode/tree/master/1310-watering-plants) |
+| [1319-unique-number-of-occurrences](https://github.com/3836bhagatsingh/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/3836bhagatsingh/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/3836bhagatsingh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/3836bhagatsingh/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/3836bhagatsingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/3836bhagatsingh/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/3836bhagatsingh/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/3836bhagatsingh/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/3836bhagatsingh/Leetcode/tree/master/1848-sum-of-unique-elements) |

@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/3836bhagatsingh/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/3836bhagatsingh/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/3836bhagatsingh/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/3836bhagatsingh/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/3836bhagatsingh/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/3836bhagatsingh/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Counting
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/3836bhagatsingh/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/3836bhagatsingh/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/3836bhagatsingh/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/3836bhagatsingh/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/3836bhagatsingh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/3836bhagatsingh/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/3836bhagatsingh/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/3836bhagatsingh/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/3836bhagatsingh/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Divide and Conquer

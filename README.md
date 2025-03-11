@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2388-replace-elements-in-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2502-sort-the-people](https://github.com/3836bhagatsingh/Leetcode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/3836bhagatsingh/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/3836bhagatsingh/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/3836bhagatsingh/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/3836bhagatsingh/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2388-replace-elements-in-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2406-decode-the-message](https://github.com/3836bhagatsingh/Leetcode/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/3836bhagatsingh/Leetcode/tree/master/2502-sort-the-people) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/3836bhagatsingh/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/3836bhagatsingh/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/3836bhagatsingh/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/3836bhagatsingh/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/3836bhagatsingh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/3836bhagatsingh/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->

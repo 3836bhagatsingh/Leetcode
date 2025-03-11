@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/3836bhagatsingh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2388-replace-elements-in-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2388-replace-elements-in-an-array) |
+| [2502-sort-the-people](https://github.com/3836bhagatsingh/Leetcode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/3836bhagatsingh/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/3836bhagatsingh/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/3836bhagatsingh/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2388-replace-elements-in-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2406-decode-the-message](https://github.com/3836bhagatsingh/Leetcode/tree/master/2406-decode-the-message) |
+| [2502-sort-the-people](https://github.com/3836bhagatsingh/Leetcode/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/3836bhagatsingh/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/3836bhagatsingh/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/3836bhagatsingh/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3836bhagatsingh/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/3836bhagatsingh/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/3836bhagatsingh/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2502-sort-the-people](https://github.com/3836bhagatsingh/Leetcode/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/3836bhagatsingh/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/3836bhagatsingh/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2406-decode-the-message](https://github.com/3836bhagatsingh/Leetcode/tree/master/2406-decode-the-message) |
+| [2502-sort-the-people](https://github.com/3836bhagatsingh/Leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/3836bhagatsingh/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3412-permutation-difference-between-two-strings](https://github.com/3836bhagatsingh/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Divide and Conquer

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/3836bhagatsingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/3836bhagatsingh/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/3836bhagatsingh/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/3836bhagatsingh/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/3836bhagatsingh/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/3836bhagatsingh/Leetcode/tree/master/0861-flipping-an-image) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/3836bhagatsingh/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/3836bhagatsingh/Leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/3836bhagatsingh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |

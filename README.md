@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/3836bhagatsingh/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/3836bhagatsingh/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/3836bhagatsingh/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2228-watering-plants-ii](https://github.com/3836bhagatsingh/Leetcode/tree/master/2228-watering-plants-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/3836bhagatsingh/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/3836bhagatsingh/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2571-find-the-pivot-integer](https://github.com/3836bhagatsingh/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/3836bhagatsingh/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |

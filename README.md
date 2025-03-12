@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/3836bhagatsingh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/3836bhagatsingh/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/3836bhagatsingh/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/3836bhagatsingh/Leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/3836bhagatsingh/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/3836bhagatsingh/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/3836bhagatsingh/Leetcode/tree/master/0792-binary-search) |
@@ -386,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/3836bhagatsingh/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/3836bhagatsingh/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
